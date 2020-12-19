@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>http://ramaswamy11703.gihtub.io/index.html</loc>
-      <lastmod>2020-12-12</lastmod>
-   </url>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://ramaswamy11703.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://ramaswamy11703.github.io/sample.tgz</loc>
+  </url>
+  <url>
+    <loc>http://ramaswamy11703.github.io/another.html</loc>
+  </url>
+  <url>
+    <loc>http://ramaswamy11703.github.io/sample.tar</loc>
+  </url>
+  <url>
+    <loc>http://ramaswamy11703.github.io/sample.txt</loc>
+  </url>
 </urlset>
+<!--<guid value="080f2d85-a505-4863-a743-123c2c074867" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
